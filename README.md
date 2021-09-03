@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I´m Manuel, Full Stack Developer Jr 🚀 My main language is Javascript (MERN). Passionate about web technology, I have decided to expand my previous background in advertising art direction 👀 and graphic design towards a total immersion in the digital environment 📲
+
+🌱 I’m currently learning 
+💬 Ask me about photography, design or pottery. I really love them. 
+🚀 This is my [CV](https://www.linkedin.com/in/manuel-chapela-33b84780/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABE11R8B6jyTkFnXLFaxhexuOfQ5iSEeKPY,1635459932177)/)
+📫 You can contact me at [manuelchapelap@gmail.com]
+
 <!--
 **ManuelChapela/ManuelChapela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
