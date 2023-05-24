@@ -2,7 +2,9 @@
 
 I´m Manuel, Full Stack Developer Jr 🚀 My main language is Javascript (MERN). Passionate about web technology, I have decided to expand my previous background in advertising art direction 👀 and graphic design towards a total immersion in the digital environment 📲
 
-🌱 I am currently learning everything related to clean and efficient code. Also, opening new horizons like Vue.js.
+🌱 I am currently learning everything related to clean and efficient code.
+
+🐒 Monkey Frontend Developer in [Taxdown](https://taxdown.es/)
 
 💬 Ask me about photography, design or pottery. I really love them. 
 
